@@ -49,6 +49,5 @@ Requirements
     matplotlib
     scikit-learn
 
-
-    This README section provides a comprehensive overview of your project, detailing the steps taken, the models used, and the results obtained. You can adjust the accuracy results (X% and Y%) with the actual values
-    from your script's output.
+This README section provides a comprehensive overview of your project, detailing the steps taken, the models used, and the results obtained. You can adjust the accuracy results (X% and Y%) with the actual values from
+your script's output.
